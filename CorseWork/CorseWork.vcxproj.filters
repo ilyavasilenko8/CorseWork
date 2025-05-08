@@ -26,5 +26,8 @@
     <ClInclude Include="part.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="size.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
