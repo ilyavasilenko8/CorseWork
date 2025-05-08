@@ -23,5 +23,8 @@
     <ClInclude Include="DrawingComponents.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="part.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
