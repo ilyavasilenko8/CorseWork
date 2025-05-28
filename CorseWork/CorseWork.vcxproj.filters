@@ -83,7 +83,7 @@
     <ClInclude Include="Suppliers.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Accounting.h">
+    <ClInclude Include="Acounting.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Observers.h">
