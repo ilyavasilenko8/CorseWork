@@ -127,12 +127,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Access.cpp" />
+    <ClCompile Include="Accounting.cpp" />
+    <ClCompile Include="Analytics.cpp" />
+    <ClCompile Include="DesignBureau.cpp" />
+    <ClCompile Include="DrawingComponents.cpp" />
+    <ClCompile Include="DrawingTemplate.cpp" />
+    <ClCompile Include="Employees.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Observers.cpp" />
+    <ClCompile Include="Part.cpp" />
+    <ClCompile Include="Size.cpp" />
+    <ClCompile Include="Standards.cpp" />
+    <ClCompile Include="Suppliers.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Access.h" />
+    <ClInclude Include="Accounting.h" />
+    <ClInclude Include="analytics.h" />
+    <ClInclude Include="DesignBureau.h" />
     <ClInclude Include="DrawingComponents.h" />
+    <ClInclude Include="drawing_template.h" />
+    <ClInclude Include="Employees.h" />
+    <ClInclude Include="Observers.h" />
     <ClInclude Include="part.h" />
     <ClInclude Include="size.h" />
+    <ClInclude Include="Standards.h" />
+    <ClInclude Include="Suppliers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
